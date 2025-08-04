@@ -1,5 +1,5 @@
 
-# YouTube Comment Analysis Project
+# YouTube Comment Analysis Project Using Machine Learning & Deep Learning Model
 
 Welcome to the **YouTube Comment Analysis** GitHub repository. This project leverages machine learning and deep learning for large-scale sentiment and emotion analysis of YouTube comments, providing actionable insights for creators, brands, and researchers.
 
